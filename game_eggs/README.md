@@ -53,6 +53,8 @@
 * GTA
   * [GTAC](gta/gtac)
 
+[Hogwarp](hogwarp)
+
 [Kerbal Space Program](ksp)
 
 [Los Angeles Crimes](losangelescrimes)
@@ -130,11 +132,13 @@
 [SteamCMD Servers](steamcmd_servers) These eggs use SteamCMD to install
 
 * [7 Days to Die](steamcmd_servers/7_days_to_die)
+* [ARK: Survival Ascended](steamcmd_servers/ark_survival_ascended)
 * [ARK: Survival Evolved](steamcmd_servers/ark_survival_evolved)
 * [Arma](steamcmd_servers/arma)
   * [Arma 3](steamcmd_servers/arma/arma3)
   * [Arma Reforger](steamcmd_servers/arma/arma_reforger)
 * [Assetto Corsa](steamcmd_servers/assetto_corsa)
+* [Astro Colony](steamcmd_servers/astro_colony)
 * [Astroneer](steamcmd_servers/astroneer)
 * [Avorion](steamcmd_servers/avorion)
 * [Barotrauma](steamcmd_servers/barotrauma)
@@ -167,6 +171,7 @@
 * [Left 4 Dead 2](steamcmd_servers/left4dead_2)
 * [Modiverse](steamcmd_servers/modiverse)
 * [Mordhau](steamcmd_servers/mordhau)
+* [Mount & Blade II: Bannerlord](steamcmd_servers/mount_blade_II_bannerlord)
 * [Neos VR](steamcmd_servers/neosvr)
 * [No More Room in Hell](steamcmd_servers/nmrih)
 * [No One Survived](steamcmd_servers/no_one_survived)
@@ -179,6 +184,7 @@
 * [Post Scriptum](steamcmd_servers/post_scriptum)
 * [Project Zomboid](steamcmd_servers/project_zomboid)
 * [Quake Live](steamcmd_servers/quake_live)
+* [Resonite](steamcmd_servers/resonite)
 * [Rising World](steamcmd_servers/rising_world)
   * [Legacy Java](steamcmd_servers/rising_world/legacy)
   * [Unity](steamcmd_servers/rising_world/unity)
@@ -206,6 +212,7 @@
 * [Swords 'n Magic and Stuff](steamcmd_servers/swords_'n_Magic_and_Stuff)
 * [Team Fortress 2 Classic](steamcmd_servers/team_fortress_2_classic)
 * [The Forest](steamcmd_servers/the_forest)
+* [The Front](steamcmd_servers/thefront)
 * [The Isle](steamcmd_servers/the_isle)
   * [Evrima](steamcmd_servers/the_isle/evrima)
 * [Tower Unite](steamcmd_servers/tower_unite)

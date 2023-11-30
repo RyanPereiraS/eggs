@@ -33,6 +33,7 @@ If you are reading this it looks like you are looking to add an egg to your serv
 * [CorpBot](/bots/discord/corpbot) Python
 * [Dynamica](/bots/discord/dynamica) Node JS
 * [fragbot](/bots/discord/fragbot) Golang
+* [Game Server Watcher](/bots/discord/game-server-watcher) Node JS
 * [JMusicBot](/bots/discord/jmusicbot) Java
 * [Muse](/bots/discord/muse) Node JS
 * [parkertron](/bots/discord/parkertron) Golang
@@ -153,6 +154,8 @@ If you are reading this it looks like you are looking to add an egg to your serv
 * GTA
   * [GTAC](game_eggs/gta/gtac)
 
+[Hogwarp](game_eggs/hogwarp)
+
 [Kerbal Space Program](game_eggs/ksp)
 
 [League Sandbox](game_eggs/leaguesandbox)
@@ -236,11 +239,13 @@ If you are reading this it looks like you are looking to add an egg to your serv
 [SteamCMD Servers](game_eggs/steamcmd_servers) These eggs use SteamCMD to install
 
 * [7 Days to Die](game_eggs/steamcmd_servers/7_days_to_die)
+* [ARK: Survival Ascended](game_eggs/steamcmd_servers/ark_survival_ascended)
 * [ARK: Survival Evolved](game_eggs/steamcmd_servers/ark_survival_evolved)
 * [Arma](game_eggs/steamcmd_servers/arma)
   * [Arma 3](game_eggs/steamcmd_servers/arma/arma3)
   * [Arma Reforger](game_eggs/steamcmd_servers/arma/arma_reforger)
 * [Assetto Corsa](game_eggs/steamcmd_servers/assetto_corsa)
+* [Astro Colony](game_eggs/steamcmd_servers/astro_colony)
 * [Astroneer](game_eggs/steamcmd_servers/astroneer)
 * [Avorion](game_eggs/steamcmd_servers/avorion)
 * [Barotrauma](game_eggs/steamcmd_servers/barotrauma)
@@ -273,6 +278,7 @@ If you are reading this it looks like you are looking to add an egg to your serv
 * [Left 4 Dead 2](game_eggs/steamcmd_servers/left4dead_2)
 * [Modiverse](game_eggs/steamcmd_servers/modiverse)
 * [Mordhau](game_eggs/steamcmd_servers/mordhau)
+* [Mount & Blade II: Bannerlord](game_eggs/steamcmd_servers/mount_blade_II_bannerlord)
 * [Neos VR](game_eggs/steamcmd_servers/neosvr)
 * [No More Room in Hell](game_eggs/steamcmd_servers/nmrih)
 * [No One Survived](game_eggs/steamcmd_servers/no_one_survived)
@@ -285,6 +291,7 @@ If you are reading this it looks like you are looking to add an egg to your serv
 * [Post Scriptum](game_eggs/steamcmd_servers/post_scriptum)
 * [Project Zomboid](game_eggs/steamcmd_servers/project_zomboid)
 * [Quake Live](game_eggs/steamcmd_servers/quake_live)
+* [Resonite](game_eggs/steamcmd_servers/resonite)
 * [Rising World](game_eggs/steamcmd_servers/rising_world)
 * [Risk Of Rain 2](game_eggs/steamcmd_servers/risk_of_rain_2)
 * [Rust](game_eggs/steamcmd_servers/rust)
@@ -309,6 +316,7 @@ If you are reading this it looks like you are looking to add an egg to your serv
 * [Sven Co-op](game_eggs/steamcmd_servers/svencoop)
 * [Swords 'n Magic and Stuff](game_eggs/steamcmd_servers/swords_'n_Magic_and_Stuff)
 * [The Forest](game_eggs/steamcmd_servers/the_forest)
+* [The Front](game_eggs/steamcmd_servers/thefront)
 * [The Isle](game_eggs/steamcmd_servers/the_isle)
   * [Evrima](game_eggs/steamcmd_servers/the_isle/evrima)
 * [Team Fortress 2 Classic](game_eggs/steamcmd_servers/team_fortress_2_classic)
